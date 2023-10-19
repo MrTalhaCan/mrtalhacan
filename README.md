@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MrTalhaCan/mrtalhacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Screenshot 2023-10-19 235334](https://github.com/MrTalhaCan/mrtalhacan/assets/76652883/9cac0059-9378-4fbf-9a3d-a60761d84335)
